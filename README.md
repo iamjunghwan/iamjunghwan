@@ -1,10 +1,5 @@
 ## Hello 👋 , I am a Front-End Developer.
 
-## 🚀 주로 사용한 기술  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,jquery,github,gitlab)](https://skillicons.dev)  
-  
-## 🛠 다루어본 기술  
-[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,css,docker,jenkins,mongodb,prisma)](https://skillicons.dev)
 
 ## 🧑‍💻 Blog & Resume
 
