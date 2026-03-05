@@ -4,6 +4,8 @@
 
 </p>
 
+[![Blog](https://img.shields.io/badge/Blog-iaman.kr-black?style=for-the-badge)](https://iaman.kr)
+
 ## 🧑‍💻 Blog
 
 📚 [Blog](https://iaman.kr/ "블로그")
